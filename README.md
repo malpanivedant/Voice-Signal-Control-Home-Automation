@@ -8,6 +8,7 @@ text signal is then sent to Arduino via Bluetooth module. The output of the Ardu
 input for the relay module which is used to control our fan and bulb.
 
 For Detailed information visit :
+https://github.com/malpanivedant/Voice-Signal-Control-Home-Automation/blob/master/Bluetooth_control_home_automation.pdf
 
 
 For apk check:
