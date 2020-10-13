@@ -15,7 +15,7 @@ void loop() {
     input = Serial.readString();
     Serial.println(input);
     } 
-  if( input == "a"){  // when input (a) recive by arduino then relay1 on
+  if( input == "a"){  // when input (a) recive  by arduino then relay1 on
   digitalWrite(RELAY1,0);
     delay(30); 
   } //if relay value zero like that (RELAY1,0) it's indicate relay on and vice versa
